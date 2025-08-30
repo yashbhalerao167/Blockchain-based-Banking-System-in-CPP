@@ -48,7 +48,7 @@ Input Validation & Error Handling: Ensures safe and reliable operations.
 Time Handling: Records timestamps for each transaction.
 
 
-Steps to Run
+# Steps to Run
 
 # Clone this repository
 git clone https://github.com/<your-username>/Blockchain-Banking-System.git
